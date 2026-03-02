@@ -1,2 +1,2 @@
 # Calculator - Odin Project
-The game of Rock, Paper, Scissors made following the Odin Project's Foundations course
+ A simple calculator made while following the Foundations course from Odin Project 
